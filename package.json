@@ -1,0 +1,13 @@
+{
+  "name": "bd-top-up-zone-backend",
+  "version": "1.0.0",
+  "description": "BD TOP UP ZONE Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
